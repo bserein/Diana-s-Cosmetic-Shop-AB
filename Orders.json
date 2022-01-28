@@ -1,50 +1,54 @@
 [
     {
-        "orderStatus": "",
-        "customerId": "",
-        "totalAmount": "",
-        "orderDate": "",
-        "deliveryDate": "",
+        "orderId": "9cdpGjKppMdnpkD0UgTK",
+        "orderStatus": "Completed",
+        "customerId": "bB2QkBCijGIzR1wmcpM7",
+        "totalAmount": 40.00,
+        "orderDate": "1/15/22",
+        "deliveryDate": "1/27/22",
         "products": [{
-            "SKU": "",
-            "price": "",
-            "quantity": ""
+            "SKU": "UAcxn3Nsdm0DiWo8qQbx",
+            "price": 20.00,
+            "quantity": 2
         }]
     },
     {
-        "orderStatus": "",
-        "customerId": "",
-        "totalAmount": "",
-        "orderDate": "",
-        "deliveryDate": "",
+        "orderId": "AwJb7Qus11kMn5NgccXP",
+        "orderStatus": "Shipped",
+        "customerId": "hvPeQ7Xn7zYdVp9dG2fi",
+        "totalAmount": 39.00,
+        "orderDate": "1/27/22",
+        "deliveryDate": "02/03/22",
         "products": [{
-            "SKU": "",
-            "price": "",
-            "quantity": ""
+            "SKU": "wLw6QGoRRVUPPaGavSrj",
+            "price": 39.00,
+            "quantity": 1
         }]
     },
     {
-        "orderStatus": "",
-        "customerId": "",
-        "totalAmount": "",
-        "orderDate": "",
-        "deliveryDate": "",
+        "orderId": "LrMTI5K9fx8J8Lycu801",
+        "orderStatus": "Backorder",
+        "customerId": "48igqUZkQkKf2t4kYqV5",
+        "totalAmount": 56.00,
+        "orderDate": "1/22/22",
+        "deliveryDate": "1/28/22",
         "products": [{
-            "SKU": "",
-            "price": "",
-            "quantity": ""
+            "SKU": "RYDtF2X2OY0TfZQ4FoTC",
+            "price": 28.00,
+            "quantity": 2
         }]
     },
     {
-        "orderStatus": "",
-        "customerId": "",
-        "totalAmount": "",
-        "orderDate": "",
-        "deliveryDate": "",
+        "orderId": "lOCCo3XFFVzkOjfH5KEy",
+        "orderStatus": "Shipped",
+        "customerId": "X8INo723PR3o3DobFMGS",
+        "totalAmount": 102.00,
+        "orderDate": "1/27/22",
+        "deliveryDate": "02/05/22",
         "products": [{
-            "SKU": "",
-            "price": "",
-            "quantity": ""
+            "SKU": "Exs1W723EeirCMyOaKkM",
+            "price": 34.00,
+            "quantity": 3
         }]
     }
 ]
