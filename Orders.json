@@ -1,0 +1,50 @@
+[
+    {
+        "orderStatus": "",
+        "customerId": "",
+        "totalAmount": "",
+        "orderDate": "",
+        "deliveryDate": "",
+        "products": [{
+            "SKU": "",
+            "price": "",
+            "quantity": ""
+        }]
+    },
+    {
+        "orderStatus": "",
+        "customerId": "",
+        "totalAmount": "",
+        "orderDate": "",
+        "deliveryDate": "",
+        "products": [{
+            "SKU": "",
+            "price": "",
+            "quantity": ""
+        }]
+    },
+    {
+        "orderStatus": "",
+        "customerId": "",
+        "totalAmount": "",
+        "orderDate": "",
+        "deliveryDate": "",
+        "products": [{
+            "SKU": "",
+            "price": "",
+            "quantity": ""
+        }]
+    },
+    {
+        "orderStatus": "",
+        "customerId": "",
+        "totalAmount": "",
+        "orderDate": "",
+        "deliveryDate": "",
+        "products": [{
+            "SKU": "",
+            "price": "",
+            "quantity": ""
+        }]
+    }
+]
