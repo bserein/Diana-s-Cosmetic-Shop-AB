@@ -45,13 +45,13 @@ const custRef = db.collection('customers');
 
 
 //retrieve order collections
-// db.collection('orders').get()
-// .then(snapshot => {
-//     snapshot.forEach(doc => {
-//         console.log(doc.id, ' => ', doc.data())
-//     })
-// })
-// .catch(console.error)
+db.collection('orders').get()
+.then(snapshot => {
+    snapshot.forEach(doc => {
+        console.log(doc.id, ' => ', doc.data())
+    })
+})
+.catch(console.error)
 
 //retrieve customer collections
 // db.collection('customers').get()
@@ -63,13 +63,13 @@ const custRef = db.collection('customers');
 // .catch(console.error)
 
 //retrieve product collections
-db.collection('products').get()
-.then(snapshot => {
-    snapshot.forEach(doc => {
-        console.log(doc.id, ' => ', doc.data())
-    })
-})
-.catch(console.error)
+// db.collection('products').get()
+// .then(snapshot => {
+//     snapshot.forEach(doc => {
+//         console.log(doc.id, ' => ', doc.data())
+//     })
+// })
+// .catch(console.error)
 
 
 //Update the documents
